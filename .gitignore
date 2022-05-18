@@ -1,3 +1,2 @@
-b.txt
 *.class
-bin/*
+/bin/**
