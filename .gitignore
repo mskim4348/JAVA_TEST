@@ -68,3 +68,5 @@ local.properties
 
 #bin/class file not upload
 /bin/** 
+
+*.class
