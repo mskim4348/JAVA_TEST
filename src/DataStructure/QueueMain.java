@@ -24,7 +24,7 @@ public class QueueMain {
 		queue.offer("b");
 		queue.offer("c");
 
-		System.out.println(queue.getClass().getName());
+		System.out.println(queue.getClass().getName())
 		System.out.println(queue.peek());
 		System.out.println("peek() 실행시 사이즈:"+queue.size());
 		System.out.println(queue);
