@@ -65,3 +65,6 @@ local.properties
 !web/
 #1.2 only ignore in root build/ directory
 /build/**
+
+#bin/class file not upload
+/bin/** 
