@@ -1,3 +1,3 @@
 b.txt
 *.class
-/bin/**/.class
+bin/**/*.class
